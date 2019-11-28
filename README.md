@@ -1,6 +1,4 @@
 
-Ian Tyson
-
 <html>
 <body style="background-color:blue;">
 <h1>Digital Video Projects</h1><br><br>
