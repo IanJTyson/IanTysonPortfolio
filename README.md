@@ -1,4 +1,3 @@
-# IanTysonPortfolio
 
 Ian Tyson
 
