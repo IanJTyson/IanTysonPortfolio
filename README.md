@@ -11,6 +11,11 @@ My interests as an artist are in the digital field: Modeling, Game art and devel
 <img src = "Minecraft.JPG"><br><br>
 <img src = "C'est la vie.jpg"><br><br>
 <img src = "Dead Drive.png"><br><br>
+<img src = "Totem.png"><br><br>
+<img src = "Divinty.png"><br><br>
+<img src = "Resonance.png"><br><br>
+<img src = "Glitch.png"><br><br>
+<img src = "Supremacy.png"><br><br>
 <h1>Digital Video Projects</h1><br><br>
 <iframe src="https://player.vimeo.com/video/362677037" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/374735891" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
