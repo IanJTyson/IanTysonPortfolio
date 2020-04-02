@@ -19,5 +19,6 @@ My interests as an artist are in the digital field: Modeling, Game art and devel
 <img src = "IanTysonLight3.jpg"><br><br>
 <img src = "Sam1.jpg"><br><br>
 <img src = "Sam2.jpg"><br><br>
-</body>
+<h1>Physical Art</h1><br><br>
+<img src = " "><br><br>
 </html>
