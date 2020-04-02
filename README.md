@@ -16,9 +16,9 @@ My interests as an artist are in the digital field: Modeling, Game art and devel
 <iframe src="https://player.vimeo.com/video/374735891" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/403043922" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <h1>Photography</h1><br><br>
-<img src = "IanTysonLight3.JPG"><br><br>
-<img src = "Sam1.JPG"><br><br>
-<img src = "Sam2.JPG"><br><br>
+<img src = "IanTysonLight3.jpg"><br><br>
+<img src = "Sam1.jpg"><br><br>
+<img src = "Sam2.jpg"><br><br>
 <img src = "Stillness.jpg"><br><br>
 </body>
 </html>
