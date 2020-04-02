@@ -20,5 +20,6 @@ My interests as an artist are in the digital field: Modeling, Game art and devel
 <img src = "Sam1.jpg"><br><br>
 <img src = "Sam2.jpg"><br><br>
 <h1>Physical Art</h1><br><br>
-<img src = " "><br><br>
+<img src = "AI_G0D.jpg"><br><br>
+<img src = "AI_G0D2.jpg"><br><br>
 </html>
