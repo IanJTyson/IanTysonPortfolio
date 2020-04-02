@@ -10,7 +10,6 @@ My interests as an artist are in the digital field: Modeling, Game art and devel
 <img src = "Halo.JPG"><br><br>
 <img src = "Minecraft.JPG"><br><br>
 <img src = "C'est la vie.jpg"><br><br>
-<img src = "Dead Drive.png"><br><br>
 <img src = "Totem.png"><br><br>
 <img src = "Divinty.png"><br><br>
 <img src = "Resonance.png"><br><br>
