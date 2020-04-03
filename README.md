@@ -26,4 +26,3 @@ My interests as an artist are in the digital field: Modeling, Game art and devel
 <h1>Physical Art</h1><br><br>
 <img src = "AI_G0D.jpg"><br><br>
 <img src = "Inf Closeup.JPG"><br><br>
-</html>
