@@ -4,26 +4,28 @@
 selectors). */
 body {
   margin: 25px;
-	background-color: #CCCCCC;
+	color: #CCCCCC;
  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: .85em;
 }
 
 p {
   margin: 35px;
-		background-color: #CCCCCC;
+		color: #CCCCCC;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: .7em;
 }
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
+color: #CCCCCC;
   font-size: 1.1em;
   font-weight: bold;
   margin-top: 5px;
 }
 
 h2 {
+color: #CCCCCC;
   font-size: .7em;
   font-weight: bold;
   margin-top: 5px;
