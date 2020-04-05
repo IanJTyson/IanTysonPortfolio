@@ -3,7 +3,7 @@
 /* Applies to the entire body of the HTML document (except where overridden by more specific
 selectors). */
 p {
-	margin: 30px;
+	margin: 40px;
 		color: #CCCCCC;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: 18px;
