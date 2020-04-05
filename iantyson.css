@@ -8,6 +8,12 @@ p {
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: 18px;
 }
+p2 {
+	margin: 50px;
+		color: #CCCCCC;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+}
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
